@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkLib", "ParkLib\ParkLib.csproj", "{08BFB16F-8123-44EE-8F8D-851BB5780A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkLib.Tests", "ParkLib.Tests\ParkLib.Tests.csproj", "{09B790E2-FAF2-4B85-80D0-FB04A6FA4614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08BFB16F-8123-44EE-8F8D-851BB5780A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BFB16F-8123-44EE-8F8D-851BB5780A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BFB16F-8123-44EE-8F8D-851BB5780A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BFB16F-8123-44EE-8F8D-851BB5780A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B790E2-FAF2-4B85-80D0-FB04A6FA4614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B790E2-FAF2-4B85-80D0-FB04A6FA4614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B790E2-FAF2-4B85-80D0-FB04A6FA4614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B790E2-FAF2-4B85-80D0-FB04A6FA4614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BCD6365-4EA9-4D79-B07B-21CF7A121956}
+	EndGlobalSection
+EndGlobal
